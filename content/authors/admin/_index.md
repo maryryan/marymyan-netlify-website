@@ -25,24 +25,32 @@ organizations:
   url: https://www.stat.uci.edu/
 role: Statistics PhD Candiate
 social:
-- icon: envelope
+- display:
+    header: true
+  icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:marymr@uci.edu
+- display:
+    header: true
+  icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=qcmyFQsAAAAJ&hl=en&authuser=1
+- display:
+    header: true
+  icon: github
+  icon_pack: fab
+  link: https://github.com/maryryan
+- display:
+    header: true
+  icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/mary-m-ryan
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/Marym_Ryan
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=qcmyFQsAAAAJ&hl=en&authuser=1
-- icon: github
-  icon_pack: fab
-  link: https://github.com/maryryan
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/mary-m-ryan
 superuser: true
 title: Mary M. Ryan
 ---
