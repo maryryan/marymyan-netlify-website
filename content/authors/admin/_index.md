@@ -1,27 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: PhD in Statistics
+    institution: University of California, Irvine
+    year: Expected 2021
+  - course: MS in Statistics
+    institution: University of California, Irvine
+    year: 2019
+  - course: BA in Statistics
+    institution: University of Missouri
+    year: 2016
+  - course: Bachelor of Journalism
+    institution: University of Missouri
+    year: 2016
+email: "marymr@uci.edu"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical Trials
+- Group Sequential Design
+- Alzheimer's Disease
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of California, Irvine
+  url: https://www.stat.uci.edu/
+role: Statistics PhD Candiate
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +33,20 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Marym_Ryan
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=qcmyFQsAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/maryryan
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mary-m-ryan
 superuser: true
-title: Nelson Bighetti
+title: Mary M. Ryan
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mary Ryan is a fifth-year Statistics Ph.D. candidate at the University of California, Irvine, working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-040721.pdf" "newtab" >}}CV{{< /staticref >}}.
