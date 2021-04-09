@@ -1,0 +1,11 @@
+# Font style metadata
+name = "mary"
+
+# Optional Google font URL
+google_fonts = "Poppins:400,400i|Titillium+Web:400,400i,700,700i|DM+Mono"
+
+# Font families
+heading_font = "Titillium Web"
+body_font = "Titillium Web"
+nav_font = "Titillium Web"
+mono_font = "DM Mono"

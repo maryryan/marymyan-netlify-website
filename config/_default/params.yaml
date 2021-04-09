@@ -7,7 +7,11 @@
 
 theme: minimal
 day_night: true
-font: ''
+# Override the theme's font set (optional).
+#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
+#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Browse user installed font sets in `data/fonts/`
+font: "mary"
 font_size: L
 
 # SEO

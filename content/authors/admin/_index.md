@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: University of California, Irvine
   url: https://www.stat.uci.edu/
-role: Statistics PhD Candiate
+role: Statistics PhD Candidate<br> marymr [at] uci [dot] edu
 social:
 - display:
     header: true
@@ -55,6 +55,6 @@ superuser: true
 title: Mary M. Ryan
 ---
 
-Mary Ryan is a fifth-year Statistics Ph.D. candidate at the University of California, Irvine, working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
+Mary Ryan is a fifth-year Statistics Ph.D. candidate at the University of California, Irvine, working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-040721.pdf" "newtab" >}}CV{{< /staticref >}}.
