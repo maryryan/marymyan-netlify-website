@@ -5,13 +5,16 @@
 
 main:
   - name: About
+    # link to the about widget #
     url: '#about'
     weight: 10
   - name: Research
-    url: '#research'
+    # link to the research folder #
+    url: research/
     weight: 20
   - name: Teaching
-    url: '#teaching'
+    # link to the teaching folder #
+    url: 'teaching/'
     weight: 30
   # - name: Posts
   #   url: '#posts'
@@ -23,7 +26,8 @@ main:
   #   url: '#talks'
   #   weight: 40
   - name: Publications
-    url: '#featured'
+    # link to the publication folder #
+    url: 'publication/'
     weight: 40
   # - name: Courses
   #   url: courses/
