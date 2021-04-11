@@ -12,7 +12,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: ASA Biopharmaceutical section
 summary: A talk based on my 2019 JSM poster for the ASA Biopharmaceutical section
 tags: ["Invited Presentation"]
 title: Variance  Estimation for the Kappa Statistic in the Presence of Clustered Data and Heterogenous Observations

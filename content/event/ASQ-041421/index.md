@@ -12,7 +12,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: ASQ Silicon Valley Section Statistics & Reliability Discussion Group
 summary: A talk on my Kappa work for the ASQ Silicon Valley Section Statistics & Reliability Discussion Group
 tags: ["Invited Presentation"]
 title: Variance  Estimation for the Kappa Statistic in the Presence of Clustered Data and Heterogenous Observations

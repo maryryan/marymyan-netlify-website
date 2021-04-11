@@ -17,7 +17,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: Alzheimer's Association International Conference 2019
 summary: Poster exploring the relative performance of study partners to assess preclinical AD participant cognition, cross­sectionally and longitudinally.
 tags: ["Poster","AAIC"]
 title: Participant and Study Partner Prediction and Identification of Cognitive Impairment in Preclinical Alzheimer's Disease - Study Partner vs. Participant Accuracy 

@@ -17,7 +17,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: Western North American Region Annual Meeting 2019
 summary: 2019 WNAR oral presentation on the Kappa statistic
 tags: ["Presentation","Paper","WNAR"]
 title: An Investigation of the Kappa Statistic Under Clustered Data and Group Sequential Testing, with an Application to Surgical Rating

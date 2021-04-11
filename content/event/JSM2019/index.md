@@ -17,7 +17,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: Joint Statistical Meetings 2019
 summary: 2019 JSM poster and speed talk on extensions to the Kappa statistic
 tags: ["Poster","Speed Talk","JSM"]
 title: An Extension of Cohen's Kappa for Clustered Data and Group Sequential Testing

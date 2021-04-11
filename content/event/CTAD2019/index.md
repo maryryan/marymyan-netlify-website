@@ -17,7 +17,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: Clinical Trials on Alzheimer’s Disease Conference 2019
 summary: Poster exploring the willingness of participants in the UCI Consent-to-Contact registry to disclose DTC genetic testing information for study matching
 tags: ["Poster","CTAD"]
 title: Using Direct-to-Consumer Genetic Testing Results in Alzheimer’s Disease Clinical Trial Recruitment 

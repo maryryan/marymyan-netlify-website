@@ -13,7 +13,7 @@ links:
   name: Follow
   url: https://twitter.com/Marym_Ryan
 publishDate: "2021-04-11T00:00:00Z"
-
+location: Clinical Trials on Alzheimer’s Disease Conference 2020
 summary: Poster exploring people's reasons toward undergoing amyloid imaging in the A4 study
 tags: ["Poster","CTAD"]
 title: Perceptions of Amyloid Imaging Among Cognitively Normal Older Adults with Elevated and Not Elevated Amyloid
