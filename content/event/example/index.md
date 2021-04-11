@@ -1,4 +1,6 @@
 ---
+draft: true
+active: false
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
   convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
@@ -27,7 +29,7 @@ links:
 location: Wowchemy HQ
 projects:
 - internal-project
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2099-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []

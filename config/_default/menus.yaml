@@ -22,13 +22,13 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
   - name: Publications
     # link to the publication folder #
     url: 'publication/'
     weight: 40
+  - name: Talks
+    url: 'event/'
+    weight: 50
   # - name: Courses
   #   url: courses/
   #   weight: 60
