@@ -24,6 +24,7 @@ organizations:
 - name: University of California, Irvine
   url: https://www.stat.uci.edu/
 role: Statistics PhD Candidate<br> marymr [at] uci [dot] edu
+user_groups: [""]
 social:
 - display:
     header: true

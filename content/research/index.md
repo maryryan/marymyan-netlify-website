@@ -1,5 +1,5 @@
 ---
-summary: My research experience
-title: "Research"
+summary: What I research
+title: ""
 type: widget_page
 ---
