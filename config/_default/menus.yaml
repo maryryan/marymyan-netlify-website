@@ -29,6 +29,9 @@ main:
   - name: Talks
     url: 'event/'
     weight: 50
+  # - name: Test
+  #   url: 'test/'
+  #   weight: 100
   # - name: Courses
   #   url: courses/
   #   weight: 60
