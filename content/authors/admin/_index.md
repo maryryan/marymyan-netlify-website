@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Statistics
     institution: University of California, Irvine
-    year: Expected 2021
+    year: 2021
   - course: MS in Statistics
     institution: University of California, Irvine
     year: 2019
@@ -21,16 +21,16 @@ interests:
 - Group Sequential Design
 - Alzheimer's Disease
 organizations:
-- name: University of California, Irvine
-  url: https://www.stat.uci.edu/
-role: Statistics PhD Candidate<br> marymr [at] uci [dot] edu
+- name: Yale Center for Analytical Sciences
+  url: https://ysph.yale.edu/ycas/
+role: Postdoctoral Associate<br> mary [dot] ryan [at] yale [dot] edu
 user_groups: [""]
 social:
 - display:
     header: true
   icon: envelope
   icon_pack: fas
-  link: mailto:marymr@uci.edu
+  link: mailto:mary.ryan@yale.edu
 - display:
     header: true
   icon: graduation-cap
@@ -56,6 +56,6 @@ superuser: true
 title: Mary M. Ryan
 ---
 
-Mary Ryan is a fifth-year Statistics Ph.D. candidate at the University of California, Irvine, working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
+Mary Ryan is a postdoctoral associate at the Yale Center for Analytical Sciences and Department of Biostatistics at Yale University. She earned her Ph.D. in Statistics from the University of California, Irvine, in 2021 working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-070621.pdf" "newtab" >}}CV{{< /staticref >}}.
