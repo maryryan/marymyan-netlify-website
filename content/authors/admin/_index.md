@@ -58,4 +58,4 @@ title: Mary M. Ryan
 
 Mary Ryan is a postdoctoral associate at the Yale Center for Analytical Sciences and Department of Biostatistics at Yale University. She earned her Ph.D. in Statistics from the University of California, Irvine, in 2021 working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-070621.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-090121.pdf" "newtab" >}}CV{{< /staticref >}}.
