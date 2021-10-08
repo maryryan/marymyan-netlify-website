@@ -14,7 +14,7 @@ education:
   - course: Bachelor of Journalism
     institution: University of Missouri
     year: 2016
-email: "marymr@uci.edu"
+email: "mary.ryan@yale.edu"
 highlight_name: false
 interests:
 - Clinical Trials
