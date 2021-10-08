@@ -1,5 +1,5 @@
 ---
-bio: My research interests include group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery.
+bio: My research interests include group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery, as well as cluster randomized trials.
 education:
   courses:
   - course: PhD in Statistics
@@ -19,6 +19,7 @@ highlight_name: false
 interests:
 - Clinical Trials
 - Group Sequential Design
+- Cluster Randomized Trials
 - Alzheimer's Disease
 organizations:
 - name: Yale Center for Analytical Sciences
@@ -56,6 +57,6 @@ superuser: true
 title: Mary M. Ryan
 ---
 
-Mary Ryan is a postdoctoral associate at the Yale Center for Analytical Sciences and Department of Biostatistics at Yale University. She earned her Ph.D. in Statistics from the University of California, Irvine, in 2021 working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
+Mary Ryan is a postdoctoral associate at the Yale Center for Analytical Sciences and Department of Biostatistics at Yale University. She earned her Ph.D. in Statistics from the University of California, Irvine, in 2021 working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). Her current research interests are in group sequential design and clinical trials, with applications in Alzheimer's Disease biomarker discovery, as well as cluster randomized trials. She is also a member of the Mizzou Mafia, graduating with the Class of 2016 from the University of Missouri, Columbia, with Bachelors in Journalism and Statistics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-090121.pdf" "newtab" >}}CV{{< /staticref >}}.
