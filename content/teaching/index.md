@@ -17,6 +17,8 @@ header:
 
 | Term        | Course                 | Position             | Institution                      | Links  |
 | ----------- |:----------------------:| --------------------:| --------------------------------:| --------------------------------:|
+| July-Aug 2022 | YCAS Young Scholars |	R & Statistics Instructor | Yale Center for Analytical Sciences | |
+| July 2022 | STEM Meets Storytelling: Using Data Science to Tell Stories about Our Communities |	Short Course Instructor | Yale University Pathways to Science | [slides](https://github.com/maryryan/pathwaysToScience-2022/) |
 | Summer 2020 | Basic Statistics ([STATS 7](http://catalogue.uci.edu/allcourses/stats/)) |	Instructor of Record | University of California, Irvine | {{< staticref "media/Syllabus-STATS7-Summer-2020.pdf" "newtab" >}}syllabus{{< /staticref >}}; [slides](https://github.com/maryryan/stats7-SS2-2020-slides/); [regression lab app](https://mary-ryan.shinyapps.io/lab-regression/) |
 | Winter 2020 | Introduction to Biological Statistics ([STATS 8](http://catalogue.uci.edu/allcourses/stats/)) | Teaching Assistant | University of California, Irvine | |
 | Fall 2019 | Introduction to Probability & Statistics for Computer Science ([STATS 67](http://catalogue.uci.edu/allcourses/stats/)) | Teaching Assistant | University of California, Irvine | |
