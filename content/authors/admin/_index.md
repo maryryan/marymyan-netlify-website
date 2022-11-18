@@ -51,8 +51,12 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
   link: https://twitter.com/Marym_Ryan
+- display:
+    header: true
+  icon: mastodon
+  icon_pack: fab
+  link: https://fediscience.org/@marymryan
 superuser: true
 title: Mary M. Ryan
 ---
