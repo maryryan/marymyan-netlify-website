@@ -59,6 +59,7 @@ social:
   link: https://fediscience.org/@marymryan
 superuser: true
 title: Mary M. Ryan
+   
 ---
 
 Mary Ryan is an Assistant Professor with joint appointments in the departments of [Population Health Sciences](https://pophealth.wisc.edu/) and [Biostatistics & Medical Informatics](https://biostat.wisc.edu/); she joined the UW-Madison as a faculty member in 2023. Dr. Ryan received her PhD (2021) and MS (2019) in Statistics from the University of California, Irvine, working under [Dr. Daniel Gillen](https://www.ics.uci.edu/~dgillen/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). She also received a BA in Statistics and Bachelor of Journalism (2016) from the University of Missouri. She has previously held positions as a Postdoctoral Associate in Biostatistics at Yale University and the Yale Center for Analytical Sciences working with Drs. [Fan Li](https://campuspress.yale.edu/fl426/) and [Denise Esserman](https://ysph.yale.edu/profile/denise_esserman/) on pragmatic and cluster randomized clinical trial methodology. Her current research interests are in correlated data and the design and analysis of clinical trials, with applications to Alzheimer’s disease.
