@@ -26,9 +26,12 @@ main:
     # link to the publication folder #
     url: 'publication/'
     weight: 40
-  - name: Talks
+  - name: PHS Grad Writing Group
     url: 'event/'
     weight: 50
+  # - name: Talks
+  #   url: 'event/'
+  #   weight: 50
   # - name: Test
   #   url: 'test/'
   #   weight: 100
