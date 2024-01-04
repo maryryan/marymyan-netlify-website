@@ -6,8 +6,8 @@ abstract: Many factors must be taken into account when designing an observationa
 authors:
 - admin
 - Daniel L. Gillen
-date: "2022-03-03T00:00:00Z"
-#doi: "10.1002/sim.8522"
+date: "2023-03-03T00:00:00Z"
+doi: "10.1214/22-AOAS1620"
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -18,7 +18,7 @@ publication: '*Annals of Applied Statistics*'
 publication_short: ""
 publication_types:
 - "2" # journal article
-publishDate: "2022-03-03T00:00:00Z"
+publishDate: "2023-03-03T00:00:00Z"
 #slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
 #   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
