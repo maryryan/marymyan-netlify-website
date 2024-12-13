@@ -42,25 +42,20 @@ social:
   icon: github
   icon_pack: fab
   link: https://github.com/maryryan
+# - display:
+#     header: true
+#   icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/mary-m-ryan
 - display:
     header: true
-  icon: linkedin
+  icon: bluesky
   icon_pack: fab
-  link: https://www.linkedin.com/in/mary-m-ryan
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/Marym_Ryan
-- display:
-    header: true
-  icon: mastodon
-  icon_pack: fab
-  link: https://fediscience.org/@marymryan
+  link: https://bsky.app/profile/marymryan.bsky.social
 superuser: true
-title: Mary M. Ryan
+title: Mary M. Ryan Baumann
 ---
 
-[Mary Ryan](https://www.name-coach.com/mary-m-ryan) is an Assistant Professor with joint appointments in the departments of [Population Health Sciences](https://pophealth.wisc.edu/) and [Biostatistics & Medical Informatics](https://biostat.wisc.edu/); she joined the UW-Madison as a faculty member in 2023. Dr. Ryan received her PhD (2021) and MS (2019) in Statistics from the University of California, Irvine, working under [Dr. Daniel Gillen](https://dgillen.ics.uci.edu/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). She also received a BA in Statistics and Bachelor of Journalism (2016) from the University of Missouri. She has previously held positions as a Postdoctoral Associate in Biostatistics at Yale University and the Yale Center for Analytical Sciences working with Drs. [Fan Li](https://lifan90.com/) and [Denise Esserman](https://ysph.yale.edu/profile/denise_esserman/) on pragmatic and cluster randomized clinical trial methodology. Her current research interests are in correlated data and the design and analysis of clinical trials, with applications to Alzheimer’s disease.
+[Mary Ryan Baumann](https://www.name-coach.com/mary-m-ryan) is an Assistant Professor with joint appointments in the departments of [Population Health Sciences](https://pophealth.wisc.edu/) and [Biostatistics & Medical Informatics](https://biostat.wisc.edu/); she joined the UW-Madison as a faculty member in 2023. Dr. Ryan Baumann received her PhD (2021) and MS (2019) in Statistics from the University of California, Irvine, working under [Dr. Daniel Gillen](https://dgillen.ics.uci.edu/) and collaborating with [Dr. Josh Grill](https://www.faculty.uci.edu/profile.cfm?faculty_id=6201). She also received a BA in Statistics and Bachelor of Journalism (2016) from the University of Missouri. She has previously held positions as a Postdoctoral Associate in Biostatistics at Yale University and the Yale Center for Analytical Sciences working with Drs. [Fan Li](https://lifan90.com/) and [Denise Esserman](https://ysph.yale.edu/profile/denise_esserman/) on pragmatic and cluster randomized clinical trial methodology. Her current research interests are in correlated data and the design and analysis of clinical trials, with applications to Alzheimer’s disease.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-010424.pdf" "newtab" >}}CV{{< /staticref >}}.
