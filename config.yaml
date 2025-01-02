@@ -4,9 +4,9 @@ theme: "starter-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Mary M. Ryan # Website name
+title: Mary Ryan Baumann # Website name
 baseurl: 'https://maryryan.netlify.app' # Website URL
-copyright: '&copy; Mary Ryan {year}' # Footer text, e.g. '© {year} Me'
+copyright: '&copy; Mary Ryan Baumann {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
