@@ -51,7 +51,7 @@ social:
     header: true
   icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/marymryan.bsky.social
+  link: https://bsky.app/profile/drstatsncats.bsky.social
 superuser: true
 title: Mary Ryan Baumann
 ---
